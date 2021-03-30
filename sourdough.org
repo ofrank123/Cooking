@@ -1,0 +1,55 @@
+#+TITLE: Sourdough Recipe
+#+AUTHOR: Oliver Frank
+#+options: toc:nil
+* Wishlist :)
+- Bread Proofing box
+- Combo Cooker/Clouche
+* Starter Maintanence
+Once daily (or less often if in the fridge):
+- 25g starter
+- 25g rye
+- 25g spelt
+- 50g bread
+- 100g 85F water
+* Bread Ingredients
+Makes 2 loaves.
+** Levain
+|-----------------+--------+------------|
+| Ingredient      | Weight | Percentage |
+|-----------------+--------+------------|
+| Starter         | 35g    |        50% |
+| Whole Wheat     | 35g    |        50% |
+| Bread Flour     | 35g    |        50% |
+| Room Temp Water | 70g    |       100% |
+|-----------------+--------+------------|
+** Dough
+|-------------+--------+------------|
+| Ingredients | Weight | Percentage |
+|-------------+--------+------------|
+| Bread Flour | 804g   |        90% |
+| Spelt       | 37.5g  |         5% |
+| Whole Wheat | 37.5g  |         5% |
+| Water @ 90F | 740g   |        85% |
+| Salt        | 18g    |         2% |
+|-------------+--------+------------|
+* Bread Schedule
+|----------------+---------------------------------------------------------------------|
+| Time           | Step                                                                |
+|----------------+---------------------------------------------------------------------|
+| 8:00am         | Start Levain, Ferment @ 78F                                         |
+| 11:30am        | Autolyse Dough (No Salt), Ferment @ 78F                             |
+| 1:00pm         | Mix Autolyse + Levain, Ferment @ 78F                                |
+| 1:30pm         | Mix With Salt                                                       |
+| 1:35pm         | Begin Bulk Ferment @ 78F                                            |
+| 1:50pm         | Fold                                                                |
+| 2:05pm         | Fold                                                                |
+| 2:20pm         | Fold                                                                |
+| 2:50pm         | Fold                                                                |
+| 3:20pm         | Fold                                                                |
+| 3:50pm         | Fold                                                                |
+| 6:00pm         | Divide Dough, Preshape, Shape                                       |
+| 6:20pm         | Cold proof in fridge                                                |
+|                | SLEEP!                                                              |
+| 6:20am-10:20am | Bake @ 260C for 20 mins                                             |
+|                | Remove cover, reduce heat to 230C, and bake til finsihed (~20 mins) |
+|----------------+---------------------------------------------------------------------|
