@@ -26,7 +26,7 @@ Makes 2 loaves.
 |-------------+--------+------------|
 | Ingredients | Weight | Percentage |
 |-------------+--------+------------|
-| Bread Flour | 729g   |        80% |
+| Bread Flour | 730g   |        80% |
 | Spelt       | 75g    |        10% |
 | Whole Wheat | 75g    |        10% |
 | Water @ 90F | 740g   |        85% |
