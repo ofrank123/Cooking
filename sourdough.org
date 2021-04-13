@@ -29,27 +29,27 @@ Makes 2 loaves.
 | Bread Flour | 730g   |        80% |
 | Spelt       | 75g    |        10% |
 | Whole Wheat | 75g    |        10% |
-| Water @ 90F | 740g   |        85% |
+| Water @ 90F | 660g   |        75% |
 | Salt        | 18g    |         2% |
 |-------------+--------+------------|
 * Bread Schedule
 |----------------+---------------------------------------------------------------------|
 | Time           | Step                                                                |
 |----------------+---------------------------------------------------------------------|
-| 8:00am         | Start Levain, Ferment @ 78F                                         |
-| 11:30am        | Autolyse Dough (No Salt), Ferment @ 78F                             |
-| 1:00pm         | Mix Autolyse + Levain, Ferment @ 78F                                |
-| 1:30pm         | Mix With Salt                                                       |
-| 1:35pm         | Begin Bulk Ferment @ 78F                                            |
-| 1:50pm         | Fold                                                                |
-| 2:05pm         | Fold                                                                |
-| 2:20pm         | Fold                                                                |
+| 9:00am         | Start Levain, Ferment @ 78F                                         |
+| 12:30am        | Autolyse Dough (No Salt), Ferment @ 78F                             |
+| 2:00pm         | Mix Autolyse + Levain, Ferment @ 78F                                |
+| 2:30pm         | Mix With Salt                                                       |
+| 2:35pm         | Begin Bulk Ferment @ 78F                                            |
 | 2:50pm         | Fold                                                                |
+| 3:05pm         | Fold                                                                |
 | 3:20pm         | Fold                                                                |
 | 3:50pm         | Fold                                                                |
-| 6:00pm         | Divide Dough, Preshape, Shape                                       |
-| 6:20pm         | Cold proof in fridge                                                |
+| 4:20pm         | Fold                                                                |
+| 5:50pm         | Fold                                                                |
+| 7:00pm         | Divide Dough, Preshape, Shape                                       |
+| 7:20pm         | Cold proof in fridge                                                |
 |                | SLEEP!                                                              |
-| 6:20am-10:20am | Bake @ 260C for 20 mins                                             |
+| 7:20am-11:20am | Bake @ 260C for 20 mins                                             |
 |                | Remove cover, reduce heat to 230C, and bake til finsihed (~20 mins) |
 |----------------+---------------------------------------------------------------------|
